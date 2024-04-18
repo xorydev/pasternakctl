@@ -1,4 +1,4 @@
-![](https://git.xorycode.dev/xory/pasternakd/-/raw/improved-readme/demo.mp4)
+![](https://git.xorycode.dev/xory/pasternakd/-/raw/main/demo.mp4)
 
 # pasternakctl
 A lightweight dedicated activator for the PASTERNAK Network-Activated High-speed Killswitch
